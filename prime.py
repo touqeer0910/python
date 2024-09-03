@@ -1,12 +1,3 @@
-"""This program demonstrates the solution of 
-project euler problem 3
-
-concepts:
-  while
-  if
-  variables
-"""
-
 number = int(input("Enter the number: "))
 index = number // 2
 while index >= 2:
